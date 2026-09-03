@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.8.2",
-  "minimum_required_version": "3.8.2",
-  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.8.2/YJ.PO.Generator.exe",
-  "sha256": "6dfbd8186700e28d512a9dab735c94e4b5180c64e2677edcc6394375e7018349",
-  "notes": "Fixes the shared database setup crash and the slow startup."
+  "latest_version": "3.9.2",
+  "minimum_required_version": "3.9.2",
+  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.9.2/YJ.PO.Generator.Setup.exe",
+  "sha256": "c0a2670c11c78973a8a7f7b906e183c3caf4ad8cab0435a8065444e145049a68",
+  "notes": "Fixes an issue where reconnecting to the shared database could fail even with the correct details, and a couple of small quality improvements."
 }
