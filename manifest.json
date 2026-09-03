@@ -1,1 +1,7 @@
-{"latest_version": "3.4.0", "minimum_required_version": "", "download_url": "", "notes": ""}
+{
+  "latest_version": "3.8.0",
+  "minimum_required_version": "3.8.0",
+  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.8.0/YJ.PO.Generator.exe",
+  "sha256": "7d93b0b005c35599dedc1f3daafde09b8fe8048208d9ca2dcb82bc307313df39",
+  "notes": "Fixes a lag issue, tidies up the sidebar and emulate screen, fixes two dashboard tile bugs, and fixes the shared database connection error."
+}
