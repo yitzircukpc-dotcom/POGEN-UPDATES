@@ -1,7 +1,7 @@
 {
   "latest_version": "3.9.17",
   "minimum_required_version": "3.9.17",
-  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/V3.9.7/YJ.PO.Generator.Setup.exe",
-  "sha256": "ebe998cecc6606a55e1b588f1f21107ff7d42a3c97867e95378e378a95a2b61f",
+  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.9.17/YJ.PO.Generator.Setup.exe",
+  "sha256": "e50233dddb82bdb4666af6f7cd17aa5c906c3ee2408b3b2e27a2dad825cf4bc5",
   "notes": "Fixes an issue where reconnecting to the shared database could fail even with the correct details, and a couple of small quality improvements."
 }
