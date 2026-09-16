@@ -2,6 +2,6 @@
   "latest_version": "3.9.23",
   "minimum_required_version": "3.9.23",
   "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.9.23/YJ.PO.Generator.Setup.exe",
-  "sha256": "da2540257d433b81ddf2fa1834f794cac6ea9a6b19d205d14d9e70ac85426324",
+  "sha256": "818c2dc8d5c211de82229e2eb7bfcdf5cd8c79cfdda5a6f841aa4b01b226e7dc",
   "notes": "PO improvements, smarter search and product matching, improved stock requests and receiving, RCG-branded Excel export, improved notifications, cleaner UI, and performance improvements to reduce unnecessary database and network usage."
 }
