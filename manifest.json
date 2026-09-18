@@ -1,7 +1,7 @@
 {
-  "latest_version": "3.9.25",
+  "latest_version": "3.9.28",
   "minimum_required_version": "3.9.25",
-  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.9.25/YJ.PO.Generator.Setup.exe",
-  "sha256": "a555c0d8dae95b7a8e9a6ff6bcf36ef591d2835798ce34a248e0d4127412f055",
+  "download_url": "https://github.com/yitzircukpc-dotcom/POGEN-UPDATES/releases/download/v3.9.28/YJ.PO.Generator.Setup.exe",
+  "sha256": "367352b0ac924d67a36e7eb945f84bef469157040d33ddcf76518ea7759c055b",
   "notes": "PO improvements, Fixed Notifictions, improved stock requests and receiving, UI Improvments."
 }
